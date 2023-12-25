@@ -80,12 +80,11 @@ ul {
 
     cursor: pointer;
 }
-.section-first__button:hover {
-    background-color: #404BBF;
-}
+.section-first__button:hover,
 .section-first__button:focus {
     background-color: #404BBF;
 }
+
 footer {
     background-color: #2E2F42;
     color: #F4F4FD;
