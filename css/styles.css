@@ -52,7 +52,7 @@ ul {
     color: #404bbf;
 }
 
-.section-1 {
+.section-first {
     background-color: #2e2f42;
 }
 
@@ -92,7 +92,7 @@ footer {
     height: 312px;
 }
 
-.features1 {
+.features {
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
