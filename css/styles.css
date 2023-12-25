@@ -77,6 +77,8 @@ ul {
     letter-spacing: 0.64px;
 
     cursor: pointer;
+    border: none;
+    border-radius: 0;
 }
 .section-first__button:hover,
 .section-first__button:focus {
