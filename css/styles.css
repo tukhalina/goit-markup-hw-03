@@ -33,6 +33,9 @@ ul {
 .list-link:hover {
     color: #404bbf;
 }
+.list-link:focus {
+    color: #404bbf;
+}
 .nav__adress {
     font-style: normal;
 }
@@ -53,7 +56,7 @@ ul {
     background-color: #2e2f42;
 }
 
-.section-1__title {
+.section-first__title {
     color: #FFFFFF;
     font-size: 56px;
     font-style: normal;
@@ -66,7 +69,7 @@ ul {
     height: 600px;
     line-height: 1.07
 }
-.section-1__button {
+.section-first__button {
     background-color: #4D5AE5;
     color: #FFFFFF;
     font-size: 16px;
@@ -77,10 +80,10 @@ ul {
 
     cursor: pointer;
 }
-.section-1__button:hover {
+.section-first__button:hover {
     background-color: #404BBF;
 }
-.section-1__button:focus {
+.section-first__button:focus {
     background-color: #404BBF;
 }
 footer {
