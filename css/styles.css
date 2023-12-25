@@ -23,14 +23,14 @@ ul {
     color: #2e2f42;
 }
 
-.list-item {
+.list-link {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
-.list-item:hover {
+.list-link:hover {
     color: #404bbf;
 }
 .nav__adress {
