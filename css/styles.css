@@ -83,6 +83,11 @@ ul {
     background-color: #404BBF;
 }
 
+.img1 {
+    width: 264px;
+    height: 268px;
+}
+
 .section-third {
     background-color: #F4F4FD;
 }
@@ -160,6 +165,11 @@ footer {
     letter-spacing: 0.32px;
     color: #434455;
 }
+.img2 {
+    width: 360px;
+    height: 300px;
+}
+
 .footer {
     background-color: #2E2F42;
 }
