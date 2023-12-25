@@ -79,6 +79,7 @@ ul {
     cursor: pointer;
     border: none;
     border-radius: 0;
+    border-bottom:none;
 }
 .section-first__button:hover,
 .section-first__button:focus {
