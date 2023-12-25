@@ -57,6 +57,7 @@ ul {
 }
 
 .section-first__title {
+    text-align: center;
     color: #FFFFFF;
     font-size: 56px;
     font-style: normal;
@@ -65,7 +66,6 @@ ul {
     letter-spacing: 1.12px;
     background-color: #2E2F42;
     line-height: 1.07;
-    text-align: center;
 }
 .section-first__button {
     background-color: #4D5AE5;
@@ -85,10 +85,10 @@ ul {
 
 .section-third {
     background-color: #F4F4FD;
-    text-align: center;
 }
 
 .our-team {
+    text-align: center;
     color: #2E2F42;
     font-size: 36px;
     font-style: normal;
