@@ -85,6 +85,22 @@ ul {
     background-color: #404BBF;
 }
 
+.section-third {
+    background-color: #F4F4FD;
+}
+
+.our-team {
+    color: #2E2F42;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
+}
+
 footer {
     background-color: #2E2F42;
     color: #F4F4FD;
@@ -107,14 +123,7 @@ footer {
     letter-spacing: 0.32px;
     color: #434455;
 }
-.our-team {
-    color: #2E2F42;
-    font-size: 36px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 40px;
-    letter-spacing: 0.72px;
-}
+
 .team {
     background-color: #FFFFFF;
     color:"#434455"
