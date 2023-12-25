@@ -63,7 +63,6 @@ ul {
     font-weight: 700;
     line-height: 60px;
     letter-spacing: 1.12px;
-    text-align: center;
     background-color: #2E2F42;
     line-height: 1.07
 }
@@ -95,7 +94,6 @@ ul {
     line-height: 40px;
     letter-spacing: 0.72px;
     line-height: 1.11;
-    text-align: center;
     text-transform: capitalize;
 }
 
