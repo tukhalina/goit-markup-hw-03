@@ -16,19 +16,44 @@ ul {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    font-size: 18px;
 }
 
 .nav__span {
     color: #2e2f42;
 }
 
-footer {
-    background-color: #2E2F42;
-    color: #F4F4FD;
-    width: 1440px;
-    height: 312px;
+.list-item {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
-h1 {
+
+.list-item:hover {
+    color: #404bbf;
+}
+.nav__adress {
+    font-style: normal;
+}
+
+.nav__adress-link {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.nav__adress-link:hover {
+    color: #404bbf;
+}
+.nav__adress-link:focus { 
+    color: #404bbf;
+}
+
+.section-1 {
+    background-color: #2e2f42;
+}
+
+.section-1__title {
     color: #FFFFFF;
     font-size: 56px;
     font-style: normal;
@@ -39,16 +64,32 @@ h1 {
     background-color: #2E2F42;
     width: 1440px;
     height: 600px;
+    line-height: 1.07
 }
-button {
+.section-1__button {
     background-color: #4D5AE5;
     color: #FFFFFF;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.64px;
+
+    cursor: pointer;
 }
+.section-1__button:hover {
+    background-color: #404BBF;
+}
+.section-1__button:focus {
+    background-color: #404BBF;
+}
+footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+    width: 1440px;
+    height: 312px;
+}
+
 .features1 {
     font-size: 20px;
     font-style: normal;
