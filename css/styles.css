@@ -64,7 +64,8 @@ ul {
     line-height: 60px;
     letter-spacing: 1.12px;
     background-color: #2E2F42;
-    line-height: 1.07
+    line-height: 1.07;
+    text-align: center;
 }
 .section-first__button {
     background-color: #4D5AE5;
@@ -84,6 +85,7 @@ ul {
 
 .section-third {
     background-color: #F4F4FD;
+    text-align: center;
 }
 
 .our-team {
@@ -131,6 +133,7 @@ footer {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #2E2F42;
 }
 .portfolio {
