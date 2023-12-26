@@ -77,9 +77,6 @@ ul {
     letter-spacing: 0.64px;
 
     cursor: pointer;
-    border: none;
-    border-radius: 0;
-    border-bottom:none;
 }
 .section-first__button:hover,
 .section-first__button:focus {
@@ -104,7 +101,6 @@ ul {
     line-height: 40px;
     letter-spacing: 0.72px;
     line-height: 1.11;
-    text-transform: capitalize;
 }
 
 footer {
