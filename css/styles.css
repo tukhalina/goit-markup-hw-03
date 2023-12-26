@@ -83,11 +83,6 @@ ul {
     background-color: #404BBF;
 }
 
-.img1 {
-    width: 264px;
-    height: 268px;
-}
-
 .section-third {
     background-color: #F4F4FD;
 }
@@ -101,6 +96,7 @@ ul {
     line-height: 40px;
     letter-spacing: 0.72px;
     line-height: 1.11;
+    text-transform: capitalize;
 }
 
 footer {
@@ -163,10 +159,6 @@ footer {
     line-height: 24px;
     letter-spacing: 0.32px;
     color: #434455;
-}
-.img2 {
-    width: 360px;
-    height: 300px;
 }
 
 .footer {
