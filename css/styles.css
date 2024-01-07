@@ -75,8 +75,8 @@ ul {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.64px;
-
     cursor: pointer;
+    margin: 636px;
 }
 .section-first__button:hover,
 .section-first__button:focus {
